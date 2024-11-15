@@ -40,7 +40,7 @@ from IPython.display import display, Markdown
 import json
 
 # Defina o tema do conteúdo
-tema_do_post = 'Tendências de Marketing Digital no LinkedIn'
+tema_do_post = 'CrewAI e um caso de escrita de post no Linkedin, como é esse caso'
 
 # Crie um dicionário com as entradas necessárias para a equipe
 entradas = {"tema": tema_do_post}
@@ -65,10 +65,23 @@ display(Markdown(f"# Dados do Resultado
 Aqui está um exemplo de como o conteúdo gerado pode ser exibido:
 
 ```json
-{
-    "post_title": "As Principais Tendências de Marketing Digital no LinkedIn para 2024",
-    "post_body": "O LinkedIn continua sendo uma das plataformas mais poderosas para profissionais e empresas. Em 2024, as tendências de marketing digital para LinkedIn incluem um foco maior em conteúdo visual e interativo, além de otimização de SEO para aumentar a visibilidade de posts. É importante ficar atento às novas ferramentas que o LinkedIn está introduzindo, como as melhorias nas campanhas publicitárias e análise de dados. Não deixe de investir no seu perfil e no conteúdo da sua empresa para ti...
-}
+{🔍 Explorando a vanguarda da IA autônoma com a CrewAI 💡🚀
+
+No mercado em rápida expansão de agentes de IA, a CrewAI emergiu como pioneira, garantindo um financiamento de $18 milhões e lançando uma plataforma inovadora de vários agentes para empresas gerenciarem autonomamente seus fluxos de trabalho complexos. 🚀📈
+
+A CrewAI opera mais de 10 milhões de agentes mensalmente, com quase metade das empresas da Fortune 500 🏦✨ aproveitando sua estrutura open-source. E a recente estreia do CrewAI Enterprise, com adoção inicial de 150 clientes corporativos beta, promete simplificar o design, a implantação e o gerenciamento de agentes de AI para organizações de grande porte. 👥🔄⚙️
+
+A plataforma multi-agente permite aos profissionais construir e implementar fluxos de trabalho automatizados usando qualquer modelo de linguagem grande (LLM) e plataforma em nuvem ☁️.
+
+Os agentes da CrewAI são aplicáveis em uma ampla gama de setores, mostrando sua versatilidade:
+
+👨‍💼 Planejamento Estratégico 💰 Finanças 📊 Métricas de Desempenho 🤖 Automação de IA 👩‍⚕️ Saúde 🧠 Aprendizado de Máquina 📈 Enriquecimento de Dados 📣 Marketing ☁️ Soluções em Nuvem 🔗 Integração de IA 📦 Cadeia de Suprimentos ⚙️ Automação de Tarefas 📚 Inteligência de Negócios 🎯 Posicionamento de Marca 💹 Otimização de Receita 🌱 Crescimento de Negócios 👩‍💼 Recursos Humanos
+
+Para uma aprendizagem imersiva em sistemas multi-agentes, explore o curso 'Multi AI Agent Systems' de João Moura em colaboração com a DeepLearning.AI. Este curso, endossado por profissionais de IA, aplica o framework da CrewAI para decompor tarefas complexas para vários agentes de IA, aperfeiçoando técnicas como atuação, uso de ferramentas e colaboração entre agentes.
+
+Não perca essa oportunidade de surfar a onda da IA, em direção a um ambiente de negócios mais colaborativo e eficiente. 🌊🤖💼
+
+CrewAI #MultiAIAgents #DeepLearningAI #AI #MachineLearning #AIFunding.}
 ```
 
 Este exemplo demonstra como o sistema gera conteúdo de forma automatizada, utilizando dados extraídos da web para criar posts otimizados para o LinkedIn.
